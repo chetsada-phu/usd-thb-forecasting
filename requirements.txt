@@ -1,0 +1,15 @@
+numpy
+pandas
+torch
+xgboost>=2.0,<4
+openpyxl
+requests
+scikit-learn
+matplotlib
+tqdm
+threadpoolctl
+chronos-forecasting>=2.0,<3
+transformers>=4.41,<5
+timesfm[torch]==2.0.2
+nbformat>=5.10,<6
+ipykernel>=6
